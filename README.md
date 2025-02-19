@@ -52,9 +52,6 @@ This project is a Mental Health Support Chatbot built using [Streamlit](https://
 - `app.py`: The main application file containing the Streamlit code and logic for the chatbot.
 - `requirements.txt`: List of required Python packages.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
